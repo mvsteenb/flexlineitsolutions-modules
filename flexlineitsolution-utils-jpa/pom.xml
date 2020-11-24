@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
 
-  <artifactId>flexlineitsolution-utils-jpa</artifactId>
+  <artifactId>flexlineitsolutions-utils-jpa</artifactId>
   <name>flexlineitsolutions-utils-jpa</name>
   <url>http://maven.apache.org</url>
   
