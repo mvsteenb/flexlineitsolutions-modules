@@ -1,4 +1,4 @@
-package org.flexlineitsolution.utils.jpa.model;
+package be.flexlineitsolutions.utils.jpa.model;
 
 import java.io.Serializable;
 

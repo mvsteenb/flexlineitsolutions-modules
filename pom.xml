@@ -42,7 +42,7 @@
   </dependencyManagement>
   
   <modules>
-  	<module>flexlineitsolution-utils-jpa</module>
+  	<module>flexlineitsolutions-utils-jpa</module>
   </modules>
   
 </project>
